@@ -1,6 +1,11 @@
 public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World! - YuHan-github");
+        System.out.println("Hello, World! - juhan722");
+        System.out.println("Hello, World! - PrinzEager");
+      
+        System.out.println("Hello, World! - rutakannazuki");
+        System.out.println("Hello, World! - glen0711 - glen0711");
 
         System.out.println("main-update-#1-#2-#3");
 
